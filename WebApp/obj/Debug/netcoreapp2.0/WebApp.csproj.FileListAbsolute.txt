@@ -1,0 +1,11 @@
+C:\PersonalProject\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.deps.json
+C:\PersonalProject\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.json
+C:\PersonalProject\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+C:\PersonalProject\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.dll
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csprojResolveAssemblyReference.cache
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+C:\PersonalProject\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.pdb
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.dll
+C:\PersonalProject\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.pdb
